@@ -1,0 +1,1 @@
+--no-error-on-unmatched-pattern '\*_/_.{js,jsx,ts,tsx}'
